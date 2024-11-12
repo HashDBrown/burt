@@ -1,0 +1,9 @@
+androidSDKPath: /home/hashdbrown/Android/Sdk
+pythonScriptsPath: /home/hashdbrown/burt/trace-replayer/lib/python-scripts
+aaptPath: /home/hashdbrown/Android/Sdk/build-tools/30.0.3
+apkPath: /home/hashdbrown/burt/trace-replayer/test-apks/94_after.apk
+getEventFile:  /home/hashdbrown/burt/trace-replayer/[15.25.41]getevent.log
+outputFolder: /home/hashdbrown/burt/trace-replayer/TR-Output
+avdPort: 5554
+adbPort: 5037
+executionNum: 1
